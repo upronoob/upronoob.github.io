@@ -1,0 +1,4 @@
+baseURL = 'https://upronoob.github.io/'
+languageCode = 'en-us'
+title = 'Umang Badetia'
+theme = "PaperMod"
